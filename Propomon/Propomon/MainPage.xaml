@@ -7,5 +7,6 @@
   <Label Text="Welcome to Pokemon World"
            VerticalOptions="Center"
            HorizontalOptions="Center" />
+  <Button ></Button>
 
 </ContentPage>
